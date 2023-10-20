@@ -22,11 +22,9 @@ Ex mienbro de fuerzas especiales, Zombies.
 # Escenario 
 El juego contara con dows niveles.
 
-# Nivel 1 
-Jardin principal de Dolores Hidalgo.
+· Nivel 1: Jardin principal de Dolores Hidalgo.
 
-# Nivel 2 
-Parroquia principal de Dolores Hidalgo.
+· Nivel 2: Parroquia principal de Dolores Hidalgo.
  
 
  
