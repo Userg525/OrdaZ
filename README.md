@@ -20,7 +20,7 @@ T
 Ex mienbro de fuerzas especiales, Zombies.
 
 # Escenario 
-El juego contara con dows niveles.
+El juego contara con dos niveles.
 
 · Nivel 1: Jardin principal de Dolores Hidalgo.
 
