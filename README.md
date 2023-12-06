@@ -21,7 +21,11 @@ En Orda Z, tu principal objetivo es sobrevivir a las hordas interminables de zom
 
 <p align="justify">
   <h2 align="center">Genero</h2>
- - (Acción y Aventura)
+
+- (Acción y Aventura)
+
+<br>
+
 </p>
 
 <p align="justify">
