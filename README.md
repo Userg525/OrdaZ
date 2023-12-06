@@ -26,14 +26,19 @@ En Orda Z, tu principal objetivo es sobrevivir a las hordas interminables de zom
 
 <p align="justify">
   <h2 align="center">Clasificacion</h2>
-![](https://ih1.redbubble.net/image.2782219439.1115/gbrf,4x6,f,540x540-pad,450x450,f8f8f8.u1.jpg)
+
+-T para adolecentes
+
 </p>
 
 <h2 align="center">Personajes</h2>
 
 <p align="justify">
+  
   - Ex miembro de fuerzas especiales
+    
   <br>
+  
   - Zombies
 </p>
 
