@@ -29,6 +29,8 @@ En Orda Z, tu principal objetivo es sobrevivir a las hordas interminables de zom
 
 -T para adolecentes
 
+<br>
+
 </p>
 
 <h2 align="center">Personajes</h2>
