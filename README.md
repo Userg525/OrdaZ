@@ -1,40 +1,50 @@
-# OrdaZ
-Trello: https://trello.com/b/0ET5W1lY/ordaz
+# OrdaZ: Sobrevive al Apocalipsis Zombi en Dolores Hidalgo
 
- # Nombre del juego
- Orda Z
- 
-# Historia
+**Trello Board:** [OrdaZ Trello Board](https://trello.com/b/0ET5W1lY/ordaz)
 
-"Orda Z" sitúa su narrativa en el pintoresco y ahora desolado pueblo de Dolores Hidalgo, donde los jugadores experimentan una historia intensa de supervivencia de hordas de zombis. La ciudad, que una vez fue testigo de eventos históricos significativos, ahora se encuentra sumida en el caos tras el brote de una epidemia zombi.
+## Introducción
+Bienvenido a OrdaZ, donde la historia se entrelaza con el caos en el pintoresco pueblo de Dolores Hidalgo. Enfrenta la intensa narrativa de supervivencia frente a las hordas de zombis que han invadido este lugar antes vibrante. Adéntrate en un escenario impactante donde la historia rica del pueblo se desvanece ante la desesperación y la lucha por sobrevivir.
 
-Los jugadores comienzan su odisea en el Jardín Principal de Dolores Hidalgo, un lugar que alguna vez fue un punto de encuentro vibrante para la comunidad. Ahora, sin embargo, este sitio emblemático se ha convertido en un campo de batalla, con zombis emergiendo entre las sombras.
+## Historia
 
-A medida que la trama avanza, la Parroquia Principal se revela como otro lugar clave en la lucha contra las ordas zombis. Este imponente templo, que alguna vez resonó con la calma de la fe, ahora es invadido por zombis. La Parroquia se convierte en un desafío estratégico para los jugadores, ya que deben navegar por sus intrincadas estructuras mientras enfrentan amenazas desde todos los ángulos.
+La ciudad, una testigo de eventos históricos, se encuentra sumida en el caos tras un brote zombi. Inicia tu odisea en el Jardín Principal, ahora un campo de batalla con zombis emergiendo entre las sombras. La Parroquia Principal, antes resonante de calma, se convierte en un desafío estratégico. Navega por sus intrincadas estructuras mientras enfrentas amenazas desde todos los ángulos.
 
-La narrativa de "Orda Z" se desarrolla a través de estos emblemáticos lugares de Dolores Hidalgo, donde la rica historia del pueblo se ve eclipsada por la desesperación y la lucha por la supervivencia. La combinación de la belleza arquitectónica de la ciudad y la angustiosa presencia de las hordas zombis crea un escenario impactante para la historia del exmiembro de las fuerzas especiales, quien debe adaptarse y utilizar su entrenamiento militar para enfrentar los desafíos en cada esquina de Dolores Hidalgo.
- 
- # Objetivo
- Eres un 
+## Objetivo
+Eres un...
 
-# La plataforma
-Es un juego elaborado en 2D.
+## Plataforma
+Desarrollado en 2D.
 
-# Genero 
-Es un juego de Acción y Aventura.
+## Género
+Acción y Aventura.
 
-# Clasificación 
-T
+## Clasificación
+T (Adolescentes).
 
-# Personajes
-Ex mienbro de fuerzas especiales, Zombies.
+## Personajes
+Encarna a un ex miembro de fuerzas especiales y enfréntate a las hordas zombis.
 
-# Escenario 
-El juego contara con dos niveles.
+## Escenario
+El juego presenta dos niveles únicos, cada uno desafiante a su manera.
 
-· Nivel 1: Jardin principal de Dolores Hidalgo.
+## Contribuciones
+¡Contribuciones son bienvenidas! Si deseas mejorar OrdaZ, abre un problema o envía una solicitud de extracción.
 
-· Nivel 2: Parroquia principal de Dolores Hidalgo.
- 
+## Instalación
+Detalles sobre la instalación y requisitos se encuentran en el archivo [INSTALL.md](./INSTALL.md).
+
+## Uso
+Consulta [USAGE.md](./USAGE.md) para obtener información detallada sobre cómo jugar y aprovechar al máximo OrdaZ.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+## Agradecimientos
+Agradecemos a la comunidad y a todos los contribuyentes que hacen posible OrdaZ.
+
+---
+
+¡Espero que encuentres esta versión más profesional y lista para presentar en tu repositorio de GitHub! Personaliza los enlaces y archivos adicionales según las necesidades específicas de tu proyecto.
+
 
  
