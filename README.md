@@ -14,23 +14,35 @@
   La ciudad, una testigo de eventos históricos, se encuentra sumida en el caos tras un brote zombi. Inicia tu odisea en el Jardín Principal, ahora un campo de batalla con zombis emergiendo entre las sombras. La Parroquia Principal, antes resonante de calma, se convierte en un desafío estratégico. Navega por sus intrincadas estructuras mientras enfrentas amenazas desde todos los ángulos.
 </p>
 
-## Objetivo
-Eres un...
+<p align="justify">
+  <h2 align="center">Objetivo</h2>
+En Orda Z, tu principal objetivo es sobrevivir a las hordas interminables de zombis en el desolado pueblo de Dolores Hidalgo. Deberás utilizar tus habilidades de combate y estrategia para enfrentarte a la creciente amenaza zombi.
+</p>
 
-## Plataforma
-Desarrollado en 2D.
+<p align="justify">
+  <h2 align="center">Genero</h2>
+ Acción y Aventura.
+</p>
 
-## Género
-Acción y Aventura.
+<p align="justify">
+  <h2 align="center">Clasificacion</h2>
+![](https://ih1.redbubble.net/image.2782219439.1115/gbrf,4x6,f,540x540-pad,450x450,f8f8f8.u1.jpg)
+</p>
 
-## Clasificación
-T (Adolescentes).
+<p align="justify">
+  <h2 align="center">Personajes</h2>
+- Ex miebro de fuerzas especiales
+- Zombies
+</p>
 
-## Personajes
-Encarna a un ex miembro de fuerzas especiales y enfréntate a las hordas zombis.
+<p align="justify">
+  <h2 align="center">Escenarios</h2>
+Escenario 1: Jardín Principal de Dolores Hidalgo.
+Adentra en el pintoresco pero ahora desolado Jardín Principal de Dolores Hidalgo, un lugar que alguna vez fue un punto de encuentro vibrante para la comunidad. Este campo de batalla, invadido por hordas de zombis emergiendo entre las sombras, presenta un desafío inicial para los jugadores. Deberán navegar por este entorno históricamente significativo mientras luchan contra las amenazas de no-muertos que acechan desde todos los ángulos.
 
-## Escenarios
-El juego presenta dos niveles únicos, cada uno desafiante a su manera.
+Escenario 2: Parroquia Principal.
+La majestuosa Parroquia Principal, que alguna vez resonó con la calma de la fe, ahora se ha convertido en un desafío estratégico clave. Invadida por zombis, sus intrincadas estructuras proporcionan un terreno único para los jugadores.
+</p>
 
 
 
