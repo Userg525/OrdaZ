@@ -29,18 +29,24 @@ En Orda Z, tu principal objetivo es sobrevivir a las hordas interminables de zom
 ![](https://ih1.redbubble.net/image.2782219439.1115/gbrf,4x6,f,540x540-pad,450x450,f8f8f8.u1.jpg)
 </p>
 
+<h2 align="center">Personajes</h2>
+
 <p align="justify">
-  <h2 align="center">Personajes</h2>
-# Ex miebro de fuerzas especiales
-# Zombies
+  - Ex miembro de fuerzas especiales
+  <br>
+  - Zombies
 </p>
+
 
 <p align="justify">
   <h2 align="center">Escenarios</h2>
-# Escenario 1: Jardín Principal de Dolores Hidalgo.
+
+- Escenario 1: Jardín Principal de Dolores Hidalgo.
 Adentra en el pintoresco pero ahora desolado Jardín Principal de Dolores Hidalgo, un lugar que alguna vez fue un punto de encuentro vibrante para la comunidad. Este campo de batalla, invadido por hordas de zombis emergiendo entre las sombras, presenta un desafío inicial para los jugadores. Deberán navegar por este entorno históricamente significativo mientras luchan contra las amenazas de no-muertos que acechan desde todos los ángulos.
 
-# Escenario 2: Parroquia Principal.
+<br>
+
+- Escenario 2: Parroquia Principal.
 La majestuosa Parroquia Principal, que alguna vez resonó con la calma de la fe, ahora se ha convertido en un desafío estratégico clave. Invadida por zombis, sus intrincadas estructuras proporcionan un terreno único para los jugadores.
 </p>
 
